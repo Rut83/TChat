@@ -51,6 +51,6 @@ void run_win_client() {
 }
 
 int main() {
-    run_client();
+    run_win_client();
     return 0;
 }
